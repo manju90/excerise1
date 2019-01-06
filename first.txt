@@ -1,4 +1,4 @@
 option 1: add
- return pass;
+ return a+b;
 option 2: subtract
  return pass;
