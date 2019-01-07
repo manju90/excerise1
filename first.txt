@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 option 1: add function
+=======
+option 1: add functiondev2
+>>>>>>> function added dev2
  return a+b;/* by dev 1*/
 option 2: subtract
  return a-b;/*dev2*/
