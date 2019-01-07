@@ -1,5 +1,5 @@
 option 1: add /*This means add only*/
 return a+b;/* by dev 1*/
 option 2: subtract
- return a-b;/*dev2*/
+ return a-b;
 
