@@ -1,5 +1,10 @@
 option 1: add /*This means add only*/
 return a+b;/* by dev 1*/
 option 2: subtract
+<<<<<<< HEAD
  return a-b;/*dev2*/
 /*this is dev 1*/
+=======
+ return a-b;
+
+>>>>>>> b004e0969fa3d5e8a00f2b6a55d050e05f69f152
